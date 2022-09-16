@@ -20,7 +20,7 @@ public class Objetivo {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     
-    @Column(nullable = false, unique = true, length = 200)
+    @Column(nullable = false, unique = false, length = 200)
     private String nome;
     
     @Column(nullable = false)
