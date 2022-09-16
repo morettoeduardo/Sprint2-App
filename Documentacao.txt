@@ -1,0 +1,36 @@
+Simulador Financeiro
+
+Funcionalidades do Sistema:
+-Criar Contas
+-Logar
+-Simular Objetivo
+-Ver Histórico de Investimento
+-Salvar Análise de Objetivo
+
+Tela: EntrarECadastrar
+-Ir para tela de login
+-Ir para tela de Cadastro
+
+Tela: Login
+-Inserir Email
+-Inserir Senha
+-Voltar para tela EntrarECadastrar
+
+Tela: Cadastro
+-Inserir Nome
+-Inserir Email
+-Inserir Senha
+-Inserir Confirmar Senha
+-Voltar para tela EntrarECadastrar
+
+Tela: Home
+-Visualizar Objetivos salvos
+
+Tela: Investimentos
+-Inserir os valores do investimento
+-Visualizar as simulações dos investimentos
+-Salvar a simulação de investimento
+
+Tela: Usuário
+-Visualizar informações do usuário
+-Logoff

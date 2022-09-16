@@ -1,0 +1,11 @@
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5432/sprint02
+        username: postgres
+        password: 1234
+    jpa:
+        hibernate:
+            ddlAuto: update
+        showSql: true
+    main:
+        allow-circular-references : true
